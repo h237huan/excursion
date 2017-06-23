@@ -1,3 +1,20 @@
-p{
-  color: green;
+h1{
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-weight: normal;
+  font-family: Verdana;
+}
+h5{
+  color: Aquamarine;
+  text-align: center;
+  font-size: 16px;
+}
+html{
+  background-color: black;
+  text-align: center;
+}
+.E{
+  text-align: right;
+  color: gray;
 }
