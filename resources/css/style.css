@@ -10,11 +10,23 @@ h5{
   text-align: center;
   font-size: 16px;
 }
-html{
+body{
   background-color: black;
   text-align: center;
 }
 .E{
-  text-align: right;
+  position: absolute;
+  text-align:right;
   color: gray;
+}
+h2 {font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+
+}
+p{
+  font-family: Verdana;
+  font-size: 21px;
+  color:Gray;
+
 }
